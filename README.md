@@ -25,11 +25,11 @@ A simple clone of the Amazon website built using HTML and CSS. This project is c
 - Add product details page
 - Implement cart and checkout functionality
 
-## 🧑 Author
+## Author
 
 - Suhani Gupts
 
-## 📄 License
+## License
 
 This project is for educational purposes only and not intended for commercial use.
 
